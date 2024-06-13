@@ -152,6 +152,7 @@ body {
   list-style-type: none;
   flex-grow: 1;
   flex-wrap: wrap;
+  margin-bottom: 30px;
 }
 
 .lots__card-list-item {
